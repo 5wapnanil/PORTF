@@ -1,0 +1,12 @@
+# Frontend - React App
+services:
+  - type: web
+    name: portfolio-frontend
+    env: static
+    region: singapore
+    plan: free
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./build
+    envVars:
+      - key: REACT_APP_API_URL
+        sync: false
