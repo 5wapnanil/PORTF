@@ -7,7 +7,7 @@ A modern, interactive portfolio website built with React and Node.js featuring s
 - **Interactive UI**: Smooth page transitions with GSAP animations
 - **Puzzle Game**: Skill-based puzzle to unlock additional pages
 - **Admin Panel**: Manage projects and messages
-- **Contact Form**: Visitors can send messages
+- **Contact Form**: Visitors can send messagess
 - **Message Board**: Display visitor messages in a creative layout
 - **Glass Morphism Design**: Modern UI with backdrop blur effects
 - **Custom Cursor**: Interactive target cursor
